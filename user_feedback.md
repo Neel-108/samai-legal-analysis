@@ -1,4 +1,4 @@
-##User Feedback from Legal Professional
+## User Feedback from Legal Professional
 
 Following deployment of SAMAI to a practicing lawyer for professional use, the following feedback was received:
 "The good thing about SAMAI is that it is to the point, and that is very beneficial when working at scale, when you need answers quickly. 
