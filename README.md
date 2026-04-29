@@ -51,4 +51,4 @@ Delivered to the client in late December 2025. Not commercially available. Built
 
 The full system prompt at v1.7, the QA report covering adversarial testing across all versions, and client delivery documentation.
 
-The real lawyer test session document is not included here out of respect for client confidentiality which is consistent with why SAMAI was built the way it was.
+The real lawyer transcript session document is also included here with the consent of the practicing lawyer and after removing any confidential information which is consistent with why SAMAI was built the way it was.
